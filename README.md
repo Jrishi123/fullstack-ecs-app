@@ -26,3 +26,9 @@ This project is a fullstack web application consisting of a React frontend and a
 - S3 (Static files or hosting)
 - Secrets Manager or Parameter Store
 
+## 🧭 Architecture
+
+Below is the architecture diagram illustrating the deployment setup of this project on AWS:
+
+![Architecture Diagram](./architecture.png)
+
